@@ -1,0 +1,34 @@
+
+.container{
+   text-align: center;
+   margin: 50px 350px;
+   
+   
+}
+.od-form{
+    background-color: grey;
+    border: 1px solid slategrey;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+   
+}
+.od-form input{
+    width: 100%;
+    border-bottom: 1px solid black;
+    outline: none;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+.btn{
+    width: 100px;
+    height: 20px;
+    border: 1px solid skyblue;
+    cursor: pointer;
+    margin: 10px;
+
+}

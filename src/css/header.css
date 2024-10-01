@@ -1,0 +1,15 @@
+.od-flex{
+    
+    background-color: slategray;
+    padding: 10px;
+}
+.od-flex ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
